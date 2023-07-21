@@ -8,16 +8,19 @@ Ensure you have Java installed on your computer.
 Clone or download this repository to your local machine.
 Create a text file named "Maze.txt" in the root directory of the project and populate it with your maze data. The first two integers in the file should represent the number of rows and columns in the maze, followed by the maze grid.
 Example maze content:
-Copy code
+
 5 5
 1 0 0 1 1
 0 1 1 1 0
 1 0 0 1 1
 0 1 1 0 0
 3 0 1 0 4
+
 In this example, the maze is a 5x5 grid with the start point (S) at row 4, column 1, and the end point (E) at row 4, column 3.
 Compile and run the Driver.java file to execute the Maze Solver algorithm.
+
 The program will display the maze grid with the path from the start point to the end point marked by "-" for horizontal movements and "|" for vertical movements.
+
 If a path is found, the program will also print the sequence of coordinates (row, col) representing the path.
 Customizing the Maze
 
@@ -31,4 +34,4 @@ Feel free to use this Maze Solver as a reference or starting point for your maze
 
 Author
 
-The Maze Solver program was developed by [Your Name]. If you have any questions or suggestions, please feel free to reach out to [your_email@example.com].
+The Maze Solver program was developed by Burb3rry Dev. If you have any questions or suggestions, please feel free to reach out to burb3rrydev@gmail.com.
