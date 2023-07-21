@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author bereket
+ *
+ */
+module MazeSolver {
+}
