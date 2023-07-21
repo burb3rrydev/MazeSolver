@@ -1,4 +1,4 @@
-#Maze Solver
+Maze Solver
 
 The Maze Solver is a Java program that uses depth-first search algorithm to find a path from the start point (S) to the end point (E) in a given maze. The maze is represented as a 2D grid, where walls are denoted by 0, open paths by 1, the start point by 3, and the end point by 4.
 
